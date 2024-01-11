@@ -7,7 +7,7 @@
 
   name        = Starterkit 
   description = A brief description about the theme.
-  module      = starterkit
+  module      = cleanblue
   screenshot  = screenshot.png
 
 ;----------// Stylesheets
